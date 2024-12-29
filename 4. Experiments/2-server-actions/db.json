@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "@tech_trendsetter",
+      "title": "Exploring AI Advancements",
+      "likes": 153
+    },
+    {
+      "id": "2",
+      "username": "@adventure_awaits",
+      "title": "Mountain Hike Adventure",
+      "likes": 275
+    },
+    {
+      "id": "134c",
+      "username": "adani-susam",
+      "title": "New post from Adani Susam",
+      "likes": 102
+    },
+    {
+      "id": "58f1",
+      "username": "adani-susam",
+      "title": "New post from Adani Susam",
+      "likes": 102
+    }
+  ]
+}
