@@ -1,6 +1,85 @@
 {
+  "profile": {
+    "username": "john-adam",
+    "fullname": "John Adam",
+    "job": "Senior Developer",
+    "age": 30,
+    "isActive": true
+  },
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Complete project report cc",
+      "expiredAt": "2024-12-26T23:59:59Z",
+      "assignee": "John Doe"
+    },
+    {
+      "id": "2",
+      "name": "Design new homepage layout",
+      "expiredAt": "2024-12-27T18:00:00Z",
+      "assignee": "Jane Smith"
+    },
+    {
+      "id": "3",
+      "name": "Fix bugs in the user profile page",
+      "expiredAt": "2024-12-29T15:00:00Z",
+      "assignee": "Alice Johnson"
+    },
+    {
+      "id": "4",
+      "name": "Prepare presentation for client meeting",
+      "expiredAt": "2024-12-28T12:00:00Z",
+      "assignee": "Robert Brown"
+    },
+    {
+      "id": "5",
+      "name": "Write blog post on AI trends",
+      "expiredAt": "2024-12-25T23:59:59Z",
+      "assignee": "Emily Davis"
+    },
+    {
+      "id": "6",
+      "name": "Implement new payment gateway",
+      "expiredAt": "2024-12-26T17:00:00Z",
+      "assignee": "David Lee"
+    }
+  ],
   "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
+    {
+      "id": "1",
+      "username": "@tech_trendsetter",
+      "title": "Exploring AI Advancements",
+      "likes": 153
+    },
+    {
+      "id": "2",
+      "username": "@adventure_awaits",
+      "title": "Mountain Hike Adventure",
+      "likes": 275
+    },
+    {
+      "id": "3",
+      "username": "@foodie_favorites",
+      "title": "Sushi Restaurant Review",
+      "likes": 98
+    },
+    {
+      "id": "4",
+      "username": "@daily_doodles",
+      "title": "New Sketch Finished!",
+      "likes": 62
+    },
+    {
+      "id": "5",
+      "username": "@fitness_fanatic",
+      "title": "Morning Workout Motivation",
+      "likes": 180
+    },
+    {
+      "id": "6",
+      "username": "@movie_buff",
+      "title": "Sci-Fi Thriller Review: 'Nebula'",
+      "likes": 145
+    }
   ]
 }
